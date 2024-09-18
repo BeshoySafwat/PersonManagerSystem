@@ -1,0 +1,28 @@
+D:\DEPI\Assigement\Console Application\Person Manager Program\bin\Debug\net8.0\Person Manager Program.exe
+D:\DEPI\Assigement\Console Application\Person Manager Program\bin\Debug\net8.0\Person Manager Program.deps.json
+D:\DEPI\Assigement\Console Application\Person Manager Program\bin\Debug\net8.0\Person Manager Program.runtimeconfig.json
+D:\DEPI\Assigement\Console Application\Person Manager Program\bin\Debug\net8.0\Person Manager Program.dll
+D:\DEPI\Assigement\Console Application\Person Manager Program\bin\Debug\net8.0\Person Manager Program.pdb
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\Person Manager Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\Person Manager Program.AssemblyInfoInputs.cache
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\Person Manager Program.AssemblyInfo.cs
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\Person Manager Program.csproj.CoreCompileInputs.cache
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\Person Manager Program.dll
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\refint\Person Manager Program.dll
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\Person Manager Program.pdb
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\Person Manager Program.genruntimeconfig.cache
+D:\DEPI\Assigement\Console Application\Person Manager Program\obj\Debug\net8.0\ref\Person Manager Program.dll
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\bin\Debug\net8.0\Person Manager Program.exe
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\bin\Debug\net8.0\Person Manager Program.deps.json
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\bin\Debug\net8.0\Person Manager Program.runtimeconfig.json
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\bin\Debug\net8.0\Person Manager Program.dll
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\bin\Debug\net8.0\Person Manager Program.pdb
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\Person Manager Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\Person Manager Program.AssemblyInfoInputs.cache
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\Person Manager Program.AssemblyInfo.cs
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\Person Manager Program.csproj.CoreCompileInputs.cache
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\Person Manager Program.dll
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\refint\Person Manager Program.dll
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\Person Manager Program.pdb
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\Person Manager Program.genruntimeconfig.cache
+D:\DEPI\Assigement\C#Assigemnt\Person Manager Program\obj\Debug\net8.0\ref\Person Manager Program.dll
